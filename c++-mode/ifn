@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: ifndef
+# key: ifn
+# --
+#ifndef ${1:FEELPP_`(upcase (file-name-nondirectory (file-name-sans-extension (buffer-file-name))))`_HPP}
+#define ${1:FEELPP_`(upcase (file-name-nondirectory (file-name-sans-extension (buffer-file-name))))`_HPP} 1
+$0
+#endif

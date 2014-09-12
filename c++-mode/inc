@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: include-feelpp
+# key: inc
+# --
+#include <feel/feel${1}/${2}.hpp>
+

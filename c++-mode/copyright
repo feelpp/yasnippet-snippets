@@ -4,7 +4,7 @@
 # --
 /* -*- mode: c++; coding: utf-8; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4; show-trailing-whitespace: t  -*-
 
-  This file is part of the Feel library
+  This file is part of the Feel++ library
 
   Author(s): ${1:Christophe Prud'homme} <${2:christophe.prudhomme@feelpp.org}>
        Date: `(format-time-string "%d %b %Y")`

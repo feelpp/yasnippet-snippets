@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: copyright
+# name: copyrightcmake
 # key: copy
 # --
 ###  CMakeLists.txt; coding: utf-8 --- 
